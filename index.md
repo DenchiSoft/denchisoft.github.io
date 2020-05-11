@@ -31,7 +31,9 @@ The app is **free** to try out, so just download it and see if it works on your 
 
 Download the app for your smartphone and PC/Mac. 
 
-*insert links here*
+<a href="url"><img src="/images/platform_logos/download_iphone.png" align="left" width="256" ></a>
+<a href="url"><img src="/images/platform_logos/download_android.png" align="left" width="256" ></a>
+<br /> <br /> <br />
 
 Feel free to play around a bit by yourself! When you're ready to get serious, here are some FAQ topics to get you started:
 
