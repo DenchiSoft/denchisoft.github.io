@@ -14,6 +14,8 @@ From there, you can use OBS or any other streaming software to create videos and
 
 <iframe width="450" height="315" src="//www.youtube.com/embed/pg6A4srAXyA" frameborder="0" allowfullscreen="allowfullscreen">&nbsp;</iframe>
 
+<br />
+
 ### What do I need?
 
 You need a smartphone (iPhone or Android) and a PC (if you want to stream on PC). Supported smartphones:
@@ -25,7 +27,16 @@ The app is **free** to try out, so just download it and see if it works on your 
 
 ### How do I get started?
 
-...
+Download the app for your smartphone and PC/Mac. 
+
+*insert links here*
+
+Feel free to play around a bit by yourself! When you're ready to get serious, here are some FAQ topics to get you started
+
+1. The VTube Studio Interface
+2. How to load your own Live2D Model
+3. How to load your own backgrounds
+4. How to stream to PC
 
 ### Markdown
 
