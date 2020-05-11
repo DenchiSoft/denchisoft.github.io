@@ -34,32 +34,10 @@ Download the app for your smartphone and PC/Mac.
 Feel free to play around a bit by yourself! When you're ready to get serious, here are some FAQ topics to get you started:
 
 1. [The VTube Studio Interface](docs/faq.md#interface)
-2. [How to load your own Live2D Model](docs/faq.md#own-models)
+2. [How to load your own Live2D Models](docs/faq.md#own-models)
 3. [How to load your own backgrounds](docs/faq.md#own-backgrounds)
 4. [How to stream to PC](docs/faq.md#stream)
 
-### Markdown
+### Privacy Policy
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-[a relative link](docs/another-page.md)
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+The VTube Studio apps (Windows/macOS/iOS/Android) do not collect ANY user information. No user data, images or face-tracking data creaed/streamed in the app is shared anywhere.
