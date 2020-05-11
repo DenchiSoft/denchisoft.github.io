@@ -1,14 +1,26 @@
-## Welcome to GitHub Pages
+## Welcome to the VTube Studio Manial
 
-You can use the [editor on GitHub](https://github.com/DenchiSoft/denchisoft.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Thank you for your interest in **VTube Studio**! This page explains what **VTube Studio** is, how to use it and also covers some basic troubleshooting topics that you may find helpful.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Should anything be unclear, feel free to reach out to me on [Twitter](https://www.google.com) or join our [Discord server](https://google.com).
 
-[a relative link](docs/another-page.md)
+### What is VTube Studio?
+
+VTube Studio is an app available for iPhone/macOS (*currently in review*), Android and Windows. The app uses your smartphone to track your face and animate a [Live2D Cubism Model](https://www.live2d.com/en/) accordingly. The model is shown directly on your phone or on your PC by streaming the face-tracking data over your local network from your phone to your PC/Mac.
+
+From there, you can use OBS or any other streaming software to create videos and livestreams using your Virtual YouTuber Live2D avatar. Interested? Here's a small preview:
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
+
+### What do I need?
+
+...
 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+[a relative link](docs/another-page.md)
 
 ```markdown
 Syntax highlighted code block
@@ -29,11 +41,3 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DenchiSoft/denchisoft.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
