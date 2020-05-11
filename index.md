@@ -42,8 +42,15 @@ Feel free to play around a bit by yourself! When you're ready to get serious, he
    * [Windows](docs/models.md#windows)
    * [macOS](docs/models.md#macos)
 3. [How to load your own backgrounds](docs/faq.md#own-backgrounds)
-4. [How to stream to PC](docs/faq.md#stream)
+4. [How to stream to PC/Mac](docs/faq.md#stream)
+5. [Why does my stream to PC/Mac lag?](docs/issues_stream.md)
+6. [How to fix slow/laggy Android face-tracking?](docs/issues_android.md)
+7. [How does the VTube Studio JSON file format work?](docs/vts_json.md)
 
 ### Privacy Policy
 
 The VTube Studio apps (Windows/macOS/iOS/Android) do not collect ANY user information. No user data, models, images, videos or face-tracking data created/streamed in the app are shared anywhere.
+
+### Contact
+
+For business- or support-related inquiries, please contact [vtubestudioapp@gmail.com](mailto:vtubestudioapp@gmail.com)
