@@ -31,12 +31,12 @@ Download the app for your smartphone and PC/Mac.
 
 *insert links here*
 
-Feel free to play around a bit by yourself! When you're ready to get serious, here are some FAQ topics to get you started
+Feel free to play around a bit by yourself! When you're ready to get serious, here are some FAQ topics to get you started:
 
-1. The VTube Studio Interface
-2. How to load your own Live2D Model
-3. How to load your own backgrounds
-4. How to stream to PC
+1. [The VTube Studio Interface](docs/faq.md#interface)
+2. [How to load your own Live2D Model](docs/faq.md#own-models)
+3. [How to load your own backgrounds](docs/faq.md#own-backgrounds)
+4. [How to stream to PC](docs/faq.md#stream)
 
 ### Markdown
 
