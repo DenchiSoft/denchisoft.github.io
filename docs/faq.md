@@ -18,7 +18,7 @@ test
 
 test 
 
-<img src="/images/vts_doc_screenshots/screenshot_3.jpg" class="img-responsive" alt="Test">
+<img src="/images/vts_doc_screenshots/screenshot_1.png" class="img-responsive" alt="Test">
 
 1. Some points
 2. Test
