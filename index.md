@@ -4,7 +4,7 @@ Thank you for your interest in **VTube Studio**! This page explains what **VTube
 
 Should anything be unclear, feel free to reach out to me on [Twitter](https://www.google.com) or join our [Discord server](https://google.com). This project is being developed by me (Denchi, [my private Twitter](https://twitter.com/DenchiSoft)) alone, so please forgive me if I may take a bit longer to respond sometimes, as this is a project that I work on in my free time outside of my regular work.
 
-__Disclaimer:__ This app is an indie production and is not developed by _Live2D Inc._ but is officially licensed to use the _Live2D Cubism SDK_. 
+__Disclaimer:__ This app is an indie production and is not developed by _Live2D Inc._ or any other company, but is **officially licensed** to use the _Live2D Cubism SDK_. 
 
 put logos here (twitter, discord, mail)
 
