@@ -1,4 +1,4 @@
-When VTube Studio detects a new Live2D Cubism model file (_\<model\>.model3.json_) in its Live2DModels-Folder, it will automatically create a VTube Studio Model file with the name _\<model>\.vtube.json_.
+When VTube Studio detects a new Live2D Cubism model file (_\<model\>.model3.json_) in its Live2DModels-Folder, it will automatically create a VTube Studio Model file with the name _\<model>\.vtube.json_ next to the Live2D model file. It is recommended to create those files using the VTube Studio UI, but you can also modify them manually as they are simple text files.
 
 This file will hold all the model meta-information and the model parameter setup (mapping between face tracking and Live2D parameters).
 
