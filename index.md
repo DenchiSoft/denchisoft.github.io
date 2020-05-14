@@ -57,7 +57,7 @@ Feel free to play around a bit by yourself! When you're ready to get serious, he
 
 ### Privacy Policy
 
-The VTube Studio apps (Windows/macOS and iOS/Android) do not collect ANY user information. No user data, models, images, videos or face-tracking data created/streamed in the app are shared anywhere.
+The VTube Studio apps (macOS/Windows and iOS/Android) do not collect ANY user information. No user data, models, images, videos or face-tracking data created/streamed in the app are shared anywhere.
 
 ### Contact
 
