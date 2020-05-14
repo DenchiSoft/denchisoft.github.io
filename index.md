@@ -17,7 +17,7 @@ VTube Studio is an app available for **iPhone/macOS** (*currently in review*), *
 
 From there, you can use OBS or any other streaming software to create videos and livestreams using your Virtual YouTuber Live2D avatar. Interested? Here's a small preview:
 
-<iframe width="450" height="315" src="//www.youtube.com/embed/pg6A4srAXyA" frameborder="0" allowfullscreen="allowfullscreen">&nbsp;</iframe>
+<iframe width="360" height="252" src="//www.youtube.com/embed/pg6A4srAXyA" frameborder="0" allowfullscreen="allowfullscreen">&nbsp;</iframe>
 
 <br />
 
