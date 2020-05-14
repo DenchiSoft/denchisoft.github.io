@@ -6,7 +6,7 @@ Should anything be unclear, feel free to reach out to me on [Twitter](https://ww
 
 __Disclaimer:__ This app is an indie production and is not developed by _Live2D Inc._ or any other company, but is **officially licensed** to use the _Live2D Cubism SDK_. 
 
-<a href="url"><img src="/images/icons/discord.png" align="left" width="72" ></a> <a href="url"><img src="/images/icons/twitter.png" align="left" width="72" ></a> <a href="url"><img src="/images/icons/mail.png" align="left" width="72" ></a>
+<a href="url"><img src="/images/icons/discord.png" align="left" width="86" ></a> <a href="url"><img src="/images/icons/twitter.png" align="left" width="86" ></a> <a href="url"><img src="/images/icons/mail.png" align="left" width="86" ></a>
 <br />
 <br />
 <br />
@@ -35,7 +35,7 @@ The app is **free** to try out, so just download it and see if it works on your 
 Download the app for your smartphone and PC/Mac. 
 
 
-<a href="url"><img src="/images/platform_logos/download_iphone.png" align="left" width="190" ></a> <a href="url"><img src="/images/platform_logos/download_android.png" align="left" width="190" ></a>
+<a href="url"><img src="/images/platform_logos/download_iphone.png" align="left" width="170" ></a> <a href="url"><img src="/images/platform_logos/download_android.png" align="left" width="170" ></a>
 
 <br /> <br /> <br />
 
