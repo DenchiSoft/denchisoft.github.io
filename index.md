@@ -10,6 +10,7 @@ __Disclaimer:__ This app is an indie production and is not developed by _Live2D 
 <br />
 <br />
 <br />
+<br />
 
 ### What is VTube Studio?
 
