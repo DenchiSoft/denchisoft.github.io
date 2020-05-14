@@ -6,7 +6,10 @@ Should anything be unclear, feel free to reach out to me on [Twitter](https://ww
 
 __Disclaimer:__ This app is an indie production and is not developed by _Live2D Inc._ or any other company, but is **officially licensed** to use the _Live2D Cubism SDK_. 
 
-put logos here (twitter, discord, mail)
+<a href="url"><img src="/images/icons/discord.png" align="left" width="72" ></a> <a href="url"><img src="/images/icons/twitter.png" align="left" width="72" ></a> <a href="url"><img src="/images/icons/mail.png" align="left" width="72" ></a>
+<br />
+<br />
+<br />
 
 ### What is VTube Studio?
 
