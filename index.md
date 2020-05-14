@@ -32,7 +32,7 @@ The app is **free** to try out, so just download it and see if it works on your 
 Download the app for your smartphone and PC/Mac. 
 
 
-<a href="url"><img src="/images/platform_logos/download_iphone.png" align="left" width="200" ></a> <a href="url"><img src="/images/platform_logos/download_android.png" align="left" width="200" ></a>
+<a href="url"><img src="/images/platform_logos/download_iphone.png" align="left" width="190" ></a> <a href="url"><img src="/images/platform_logos/download_android.png" align="left" width="190" ></a>
 
 <br /> <br /> <br />
 
@@ -45,10 +45,10 @@ Feel free to play around a bit by yourself! When you're ready to get serious, he
    * [iPhone](docs/models.md#iphone)
    * [Windows](docs/models.md#windows)
    * [macOS](docs/models.md#macos)
-4. [How to load your own backgrounds](docs/faq.md#own-backgrounds)
-5. [How to stream to PC/Mac](docs/faq.md#stream)
-6. [Why does my stream to PC/Mac lag?](docs/issues_stream.md)
-7. [How to fix slow/laggy Android face-tracking?](docs/issues_android.md)
+4. [How to load your own backgrounds](docs/backgrounds.md)
+5. [How to stream to PC/Mac](docs/stream.md)
+6. [Why does my stream to PC/Mac lag?](docs/stream_issues.md)
+7. [How to fix slow/laggy Android face-tracking?](docs/android_issues.md)
 8. [How does the VTube Studio JSON file format work?](docs/vts_json.md)
 
 ### Privacy Policy
