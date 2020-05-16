@@ -51,7 +51,7 @@ Download the app for your smartphone and PC/Mac.
 Feel free to play around a bit by yourself! When you're ready to get serious, here are some FAQ topics to get you started:
 
 1. [The VTube Studio Interface](docs/interface.md)
-2. [What are the differences between iOS and Android?](docs/platform_differences.md)
+2. [Which face tracking parameters can I use? What are the differences between iOS and Android?](docs/platform_differences.md)
 3. [How to load your own Live2D Models](docs/models.md)
 4. [How to load your own backgrounds](docs/backgrounds.md)
 5. [How to stream to PC/Mac](docs/stream.md)
