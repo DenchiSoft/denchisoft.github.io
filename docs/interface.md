@@ -29,18 +29,27 @@ After selecting a model, it will be shown on screen. You can move, rotate and sc
 
 When clicking the __"Show Camera"__ button, the camera preview window (1) will appear (smartphone only). On Android, this Window may be black if something went wrong with the ARCore setup. Check the log if that is the case.
 
+__Click the camera preview window to calibrate the face tracking.__ While doing this, keep your face at a normal distance from the camera with a neutral expression on your face.
 
-## Test
+## Main Config
 
 ![Screenshot 4](../images/vts_doc_screenshots/screenshot_4.png "Screenshot 4")
 
-...
+The settings screen appears when clicking the __Show Config__ button.
 
-## Test
+1. Button to buy a PRO subscription. This will allow you to stream to PC for an __unlimited time__ (normally limited to 1 minute in the free version) and removes the __Vtube Studio Logo__.
+2. Some general configuration, including the button to quit the app.
+3. Config for streaming to PC. After starting a VTube Studio server on your PC or Mac, you can put in the IP and port here and connect to it. When turning on "Auto-Conect to PC", the app will automatically try to connect in the background.
+
+## Camera Config
 
 ![Screenshot 5](../images/vts_doc_screenshots/screenshot_5.png "Screenshot 5")
 
-...
+Only available on smartphone.
+
+1. The resolution used by ARCore. Some smartphones (including iPhone X) allow different resolutions and Frames-Per-Second settings to be selected there.
+2. Whether or not you want to show the camera image in the app. If "Never show" is selected, the camera image will be set to black. If "Hide when face not found" is selected, the camera preview image will be set to black the moment face tracking is lost.
+3. Face mask setting. If turned off, the face mask will not be shown over your face in the camera preview.
 
 ## Test
 
