@@ -1,4 +1,6 @@
-# Test
+# VTube Studio Interface
+
+[\[Back to main page\]](https://denchisoft.github.io/)
 
 Here is some test above the image.
 
@@ -8,7 +10,7 @@ More test.
 
 test 
 
-<img src="/images/vts_doc_screenshots/screenshot_0.png" class="img-responsive" alt="Test">
+![Screenshot 1](images/vts_doc_screenshots/screenshot_1.png "Live2D Expandable Application")
 
 1. Some points
 2. Test
@@ -17,8 +19,6 @@ test
 ## Test 123
 
 test 
-
-<img src="/images/vts_doc_screenshots/screenshot_1.png" class="img-responsive" alt="Test">
 
 1. Some points
 2. Test
