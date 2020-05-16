@@ -1,3 +1,7 @@
+# Android Issues
+
+[\[Back to main page\]](https://denchisoft.github.io/)
+
 Android uses ARCore for face tracking. Compared to Apple's ARKit, Google ARCore is relatively slow and also doesn't quite compare in terms of tracking quality.
 
 Unlike ARKit, ARCore also doesn't directly give the developer face parameters such as "smile" and "mouth open/close", but you have to calculate them yourself. To get high-quality zero-latency face tracking, I recommend using the iPhone version of VTube Studio. I mean, look at this. ARKit directly gives you all those parameters and many more, basically for free. How cool is that?
