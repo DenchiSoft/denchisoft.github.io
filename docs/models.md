@@ -6,7 +6,7 @@ Loading your own Live2D models to use them in VTube Studio is super easy! First,
 
 - **iPhone:** Open VTube Studio app data folder on your iPhone in iTunes (Windows or macOS) or Finder (on macOS Catalina). You'll find a Live2DModels-Folder.
 - **Android:** \<Your Phone\>/Android/data/com.denchi.vtubestudio/files/Live2DModels
-- **Mac:** VtubeStudio.app/Contents/Resources/Data/StreamingAssets/Live2DModels
+- **Mac:** VTubeStudio.app/Contents/Resources/Data/StreamingAssets/Live2DModels
 - **Windows:** \<VTubeStudio.exe-Path\>/Vtube Studio_Data/StreamingAssets/Live2DModels
 
 Create a folder for your model in the Live2DModels-Folder. In that folder, put the following files:
