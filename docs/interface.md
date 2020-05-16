@@ -74,11 +74,15 @@ You can create VTube Stuio Model Parameters (__"VTS parameters"__). Those parame
 7. Choose a __name__ for your VTS parameter to identify it by.
 8. Whenever you change anything on the model config screen, the VTS model is automatically saved next to your Live2D model file in a file called **\<name-of-live2D-model\>.vtube.json**
 
-## Test
+## Logs
 
 ![Screenshot 8](../images/vts_doc_screenshots/screenshot_8.png "Screenshot 8")
 
-...
+If anything goes wrong or breaks in the app, check the logs to see what's up. The logs are also written to a file, which you will find here:
+- **iPhone:** Open VTube Studio app data folder on your iPhone in iTunes (Windows or macOS) or Finder (on macOS Catalina)
+- **Android:** \<Your Phone\>/Android/data/com.denchi.vtubestudio/files/Logs
+- **Mac:** VtubeStudio.app/Contents/Resources/Data/StreamingAssets/Logs
+- **Windows:** <VTubeStudio.exe-Path>/Vtube Studio_Data/StreamingAssets/Logs
 
 
 
