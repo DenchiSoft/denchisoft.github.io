@@ -63,7 +63,16 @@ You can use the __"Auto Setup"__ buttons to set up your currently loaded model f
 
 ![Screenshot 7](../images/vts_doc_screenshots/screenshot_7.png "Screenshot 7")
 
-You can create VTube Stuio Model Parameters (__"VTS parameters"__). Those parameters connect the face tracking parameters (input) with the Live2D model parameters (output). You can 
+You can create VTube Stuio Model Parameters (__"VTS parameters"__). Those parameters connect the face tracking parameters (input) with the Live2D model parameters (output). When creating a VTS parameter, this is the recommended flow:
+
+1. Select __Input__ face tracking parameter. Move your face and see the red dot move in the input range. Choose the upper/lower bounds of the input range.
+2. Select __Output__ Live2D parameter (lists all parameters in your model). Choose upper/lower bounds for the parameter. The UI also shows the min/max value the Live2D parameter can have.
+3. Note that your __Input Range__ of values is mapped to the __Output Range__ of values. You can choose any value you want here. The upper bounds could even be lower that the lower bounds.
+4. Choose __smoothing__. For very fast tracking (mouth, etc), you can set it to 0, but this may introduce some shaking in the tracking. Play around with this setting to get a feel for it.
+5. Use the __Clamp__ switches if you want to make sure the input/output value stays between the bounds that you set.
+6. Use the __Add blinking__ switch to randomly add a blinking animation to that parameter (randomly pulls down output Live2D parameter to zero).
+7. Choose a __name__ for your VTS parameter to identify it by.
+8. Whenever you change anything on the model config screen, the VTS model is automatically saved next to your Live2D model file in a file called **\<name-of-live2D-model\>.vtube.json**
 
 ## Test
 
