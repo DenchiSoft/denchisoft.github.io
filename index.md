@@ -44,6 +44,10 @@ Download the app for your smartphone and PC/Mac.
 
 <br /> <br /> <br />
 
+<a href="url"><img src="/images/platform_logos/download_mac.png" align="left" width="170" ></a> <a href="url"><img src="/images/platform_logos/download_windows.png" align="left" width="170" ></a>
+
+<br /> <br /> <br />
+
 Feel free to play around a bit by yourself! When you're ready to get serious, here are some FAQ topics to get you started:
 
 1. [The VTube Studio Interface](docs/interface.md)
