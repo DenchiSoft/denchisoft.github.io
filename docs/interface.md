@@ -29,3 +29,47 @@ After selecting a model, it will be shown on screen. You can move, rotate and sc
 
 When clicking the __"Show Camera"__ button, the camera preview window (1) will appear (smartphone only). On Android, this Window may be black if something went wrong with the ARCore setup. Check the log if that is the case.
 
+
+## Test
+
+![Screenshot 4](../images/vts_doc_screenshots/screenshot_4.png "Screenshot 4")
+
+...
+
+## Test
+
+![Screenshot 5](../images/vts_doc_screenshots/screenshot_5.png "Screenshot 5")
+
+...
+
+## Test
+
+![Screenshot 6](../images/vts_doc_screenshots/screenshot_6.png "Screenshot 6")
+
+...
+
+## Test
+
+![Screenshot 7](../images/vts_doc_screenshots/screenshot_7.png "Screenshot 7")
+
+...
+
+## Test
+
+![Screenshot 8](../images/vts_doc_screenshots/screenshot_8.png "Screenshot 8")
+
+...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
