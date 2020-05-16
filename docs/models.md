@@ -1,6 +1,6 @@
 # How to load your own Live2D Models
 
-...
+[\[Back to main page\]](https://denchisoft.github.io/)
 
 ## Android
 ...
