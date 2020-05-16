@@ -82,7 +82,7 @@ If anything goes wrong or breaks in the app, check the logs to see what's up. Th
 - **iPhone:** Open VTube Studio app data folder on your iPhone in iTunes (Windows or macOS) or Finder (on macOS Catalina)
 - **Android:** \<Your Phone\>/Android/data/com.denchi.vtubestudio/files/Logs
 - **Mac:** VtubeStudio.app/Contents/Resources/Data/StreamingAssets/Logs
-- **Windows:** <VTubeStudio.exe-Path>/Vtube Studio_Data/StreamingAssets/Logs
+- **Windows:** \<VTubeStudio.exe-Path\>/Vtube Studio_Data/StreamingAssets/Logs
 
 
 
