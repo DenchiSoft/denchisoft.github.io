@@ -51,17 +51,19 @@ Only available on smartphone.
 2. Whether or not you want to show the camera image in the app. If "Never show" is selected, the camera image will be set to black. If "Hide when face not found" is selected, the camera preview image will be set to black the moment face tracking is lost.
 3. Face mask setting. If turned off, the face mask will not be shown over your face in the camera preview.
 
-## Test
+## Model Config (1, general info)
 
 ![Screenshot 6](../images/vts_doc_screenshots/screenshot_6.png "Screenshot 6")
 
-...
+The general model setup. You can choose an icon and default idle animatio for your model that will control all Live2D parameters that are not controlled by your face tracking setup. Both the icon and idle animations have to be in the same folder as your Live2D model file.
 
-## Test
+You can use the __"Auto Setup"__ buttons to set up your currently loaded model for use on Android or iPhones. This will remove all VTS parameters and replace them with default ones based on the **default Live2D parameter names** you have used in your Live2D model.
+
+## Model Config (2, parameter setup)
 
 ![Screenshot 7](../images/vts_doc_screenshots/screenshot_7.png "Screenshot 7")
 
-...
+You can create VTube Stuio Model Parameters (__"VTS parameters"__). Those parameters connect the face tracking parameters (input) with the Live2D model parameters (output). You can 
 
 ## Test
 
