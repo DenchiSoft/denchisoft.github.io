@@ -63,6 +63,9 @@ Feel free to play around a bit by yourself! When you're ready to get serious, he
 
 The VTube Studio apps (macOS/Windows and iOS/Android) do not collect ANY user information. No user data, models, images, videos or face-tracking data created/streamed in the app are shared anywhere.
 
+### Model Licenses
+The Live2D models included in the app belong to __Live2D Inc.__, so please respect the ["Agreement for Free Material"](https://docs.live2d.com/cubism-editor-manual/sample-model/?locale=en_us#License). 
+
 ### Contact
 
 For business- or support-related inquiries, please contact [vtubestudioapp@gmail.com](mailto:vtubestudioapp@gmail.com)
