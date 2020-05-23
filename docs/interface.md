@@ -37,9 +37,9 @@ __Click the camera preview window to calibrate the face tracking.__ While doing 
 
 The settings screen appears when clicking the __Show Config__ button.
 
-1. Button to buy a PRO subscription. This will allow you to stream to PC for an __unlimited time__ (normally limited to 1 minute in the free version) and removes the __Vtube Studio Logo__.
+1. Button to buy VTube Studio PRO version. This will allow you to stream to PC for an __unlimited time__ (normally limited to 1 minute in the free version) and removes the __Vtube Studio Logo__.
 2. Some general configuration, including the button to quit the app.
-3. Config for streaming to PC. After starting a VTube Studio server on your PC or Mac, you can put in the IP and port here and connect to it. When turning on "Auto-Conect to PC", the app will automatically try to connect in the background.
+3. Config for streaming to PC. After starting a VTube Studio server on your PC or Mac, you can put in the IP and port here and connect to it. When turning on "Connect to PC", the app will automatically try to connect in the background.
 
 ## Camera Config
 
