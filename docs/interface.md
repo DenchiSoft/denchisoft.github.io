@@ -50,6 +50,7 @@ Only available on smartphone.
 1. The resolution used by ARCore. Some smartphones (including iPhone X) allow different resolutions and Frames-Per-Second settings to be selected there.
 2. Whether or not you want to show the camera image in the app. If "Never show" is selected, the camera image will be set to black. If "Hide when face not found" is selected, the camera preview image will be set to black the moment face tracking is lost.
 3. Face mask setting. If turned off, the face mask will not be shown over your face in the camera preview.
+4. Model behaviour if face tracking is lost. You can choose to have the model go back to the default position or have the model stay at the current pose until the tracking is re-established.
 
 ## Model Config (1, general info)
 
