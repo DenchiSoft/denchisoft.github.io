@@ -16,6 +16,6 @@ Create a folder for your model in the Live2DModels-Folder. In that folder, put t
 
 The model will now be available in the VTube Studio app and you can load it. You can then use Auto-Setup to set up the face tracking using VTS parameters or create them automatically. For more information, see the [VTube Studio Interface Documentation](https://denchisoft.github.io/docs/interface.html) or watch the following video.
 
-<iframe width="360" height="252" src="//www.youtube.com/embed/pg6A4srAXyA" frameborder="0" allowfullscreen="allowfullscreen">&nbsp;</iframe>
+<iframe width="360" height="252" src="//www.youtube.com/embed/AssUd6EtFXw" frameborder="0" allowfullscreen="allowfullscreen">&nbsp;</iframe>
 
 <br />
