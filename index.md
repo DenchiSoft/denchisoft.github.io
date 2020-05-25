@@ -18,6 +18,8 @@ __Disclaimer:__ This app is an indie production and is not developed by _Live2D 
 
 VTube Studio is an app available for **iPhone/macOS** (*currently in review*), **Android** and **Windows**. The app uses your smartphone to track your face and animate a [Live2D Cubism Model](https://www.live2d.com/en/) accordingly. The model is shown directly on your phone or on your PC by streaming the face-tracking data over your local network from your phone to your PC/Mac.
 
+![VTube Studio Setup](/images/other/vts_basic_setup_detail_small.png "VTube Studio Setup")
+
 From there, you can use OBS or any other streaming software to create videos and livestreams using your Virtual YouTuber Live2D avatar. Interested? Here's a small preview:
 
 (INSERT REAL DEMO VIDEO/AD HERE)
