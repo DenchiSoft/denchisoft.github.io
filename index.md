@@ -2,7 +2,7 @@
 
 Thank you for your interest in **VTube Studio**! This page explains what **VTube Studio** is, how to use it and also covers some basic troubleshooting topics that you may find helpful.
 
-Should anything be unclear, feel free to reach out to me on [Twitter](https://www.google.com) or join our [Discord server](https://google.com). This project is being developed by me (Denchi, [my private Twitter](https://twitter.com/DenchiSoft)) alone, so please forgive me if I may take a bit longer to respond sometimes, as this is a project that I work on in my free time outside of my regular work.
+Should anything be unclear, feel free to reach out to me on [Twitter](https://twitter.com/VTubeStudio) or join our [Discord server](https://discord.gg/j6JUarA). This project is being developed by me (Denchi, [my private Twitter](https://twitter.com/DenchiSoft)) alone, so please forgive me if I may take a bit longer to respond sometimes, as this is a project that I work on in my free time outside of my regular work.
 
 ![Live2D Expandable Application](/images/icons/live2d_expandable_app_small.png "Live2D Expandable Application")
 
