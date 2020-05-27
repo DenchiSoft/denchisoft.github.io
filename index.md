@@ -22,9 +22,7 @@ VTube Studio is an app available for **iPhone/macOS** (*currently in review*), *
 
 From there, you can use OBS or any other streaming software to create videos and livestreams using your Virtual YouTuber Live2D avatar. Interested? Here's a small preview:
 
-(INSERT REAL DEMO VIDEO/AD HERE)
-
-<iframe width="360" height="252" src="//www.youtube.com/embed/pg6A4srAXyA" frameborder="0" allowfullscreen="allowfullscreen">&nbsp;</iframe>
+<iframe width="360" height="252" src="//www.youtube.com/embed/q5dKr0ulx10" frameborder="0" allowfullscreen="allowfullscreen">&nbsp;</iframe>
 
 <br />
 
@@ -37,7 +35,7 @@ You need a smartphone (iPhone or Android) and a PC (if you want to stream on PC)
   - iPad Pro 11-inch, iPad Pro (1st, 2nd, 3rd, 4th+ generation)
 - **Android:** Any Android device that supports ARCore (see [this list of supported devices](https://developers.google.com/ar/discover/supported-devices)).
 
-The app is **free** to try out, so just download it and see if it works on your phone!
+The app is **free** to try out, so just download it and see if it works on your phone! If you like it, you can buy the PRO version to remove the watermark from the app and enable unlimited face streaming!
 
 ### How do I get started?
 
