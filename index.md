@@ -42,7 +42,7 @@ The app is **free** to try out, so just download it and see if it works on your 
 Download the app for your smartphone and PC/Mac. 
 
 
-<a href="url"><img src="/images/platform_logos/download_iphone.png" align="left" width="170" ></a> <a href="url"><img src="/images/platform_logos/download_android.png" align="left" width="170" ></a>
+<a href="https://www.apple.com/ios/app-store/"><img src="/images/platform_logos/download_iphone.png" align="left" width="170" ></a> <a href="https://play.google.com/store"><img src="/images/platform_logos/download_android.png" align="left" width="170" ></a>
 
 <br /> <br /> <br />
 
