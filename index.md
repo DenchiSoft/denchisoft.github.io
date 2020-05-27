@@ -46,7 +46,7 @@ Download the app for your smartphone and PC/Mac.
 
 <br /> <br /> <br />
 
-<a href="url"><img src="/images/platform_logos/download_mac.png" align="left" width="170" ></a> <a href="url"><img src="/images/platform_logos/download_windows.png" align="left" width="170" ></a>
+<a href="https://www.dropbox.com/s/t8me7mrgigjjuvo/VTube_Studio_macOS_1_0_1.zip?dl=1"><img src="/images/platform_logos/download_mac.png" align="left" width="170" ></a> <a href="https://www.dropbox.com/s/gwtdzqjyh9iyylq/VTube_Studio_Windows_1_0_1.zip?dl=1"><img src="/images/platform_logos/download_windows.png" align="left" width="170" ></a>
 
 <br /> <br /> <br />
 
