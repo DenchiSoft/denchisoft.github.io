@@ -57,9 +57,10 @@ Feel free to play around a bit by yourself! When you're ready to get serious, he
 3. [How to load your own Live2D Models](docs/models.md)
 4. [How to load your own backgrounds](docs/backgrounds.md)
 5. [How to stream to PC/Mac](docs/stream.md)
-6. [Why does my stream to PC/Mac lag?](docs/stream_issues.md)
-7. [How to fix slow/laggy Android face-tracking?](docs/android_issues.md)
-8. [How does the VTube Studio JSON file format work?](docs/vts_json.md)
+6. [How to use OBS to record or livestream using VTube Studio](docs/record.md)
+7. [Why does my stream to PC/Mac lag?](docs/stream_issues.md)
+8. [How to fix slow/laggy Android face-tracking?](docs/android_issues.md)
+9. [How does the VTube Studio JSON file format work?](docs/vts_json.md)
 
 ### Privacy Policy
 
