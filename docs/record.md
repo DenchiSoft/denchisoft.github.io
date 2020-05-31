@@ -2,14 +2,6 @@
 
 [\[Back to main page\]](https://denchisoft.github.io/)
 
-...
+Any Windows/Mac recording software should work with VTube Studio. This is a short guide on how to set up OBS
 
-![The Server](../images/vts_doc_screenshots/screenshot_server.png "The Server")
-
-...
-
-![The Client](../images/vts_doc_screenshots/screenshot_client.png "The Client")
-
-...
-
-![Streaming example](../images/vts_doc_screenshots/example_streaming.png "Streaming example")
+![OBS Setup 1](../images/vts_doc_obs/obs_1.png "OBS Setup 1")
