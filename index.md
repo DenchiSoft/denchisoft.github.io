@@ -42,7 +42,7 @@ The app is **free** to try out, so just download it and see if it works on your 
 Download the app for your smartphone and PC/Mac. 
 
 
-<a href="https://apps.apple.com/us/app/vtube-studio/id1511435444"><img src="/images/platform_logos/download_iphone.png" align="left" width="155" ></a><a><img src="/images/platform_logos/download_android_dev.png" align="left" width="155" ></a>
+<a href="https://apps.apple.com/us/app/vtube-studio/id1511435444"><img src="/images/platform_logos/download_iphone.png" align="left" width="155" ></a> <a href="#"><img src="/images/platform_logos/download_android_dev.png" align="left" width="155" ></a>
 
 <br /> <br /> <br />
 
