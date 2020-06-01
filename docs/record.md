@@ -17,7 +17,7 @@ __On macOS, this feature is not supported by OBS__, so choose any color you want
 
 ## 2. Prepare OBS
 
-Add a background in OBS, then add a capture for VTube Studio. To do that, select __"Game Capture"__. This supports transparent backgrounds but is only available on Windows. On macOS, this option is called __"Syphon Client"__, but does not work after macOS 10.14 Mojave (see https://github.com/zakk4223/SyphonInject), so you need to use a regular window capture.
+Add a background in OBS, then add a capture for VTube Studio. To do that, select __"Game Capture"__. This supports transparent backgrounds but is only available on Windows. On macOS, this option is called __"Syphon Client"__, but does not work after macOS 10.14 Mojave (see [https://github.com/zakk4223/SyphonInject](https://github.com/zakk4223/SyphonInject)), so you need to use a regular window capture.
 
 ![OBS Setup 3](../images/obs_screenshots/obs_3.png "OBS Setup 3")
 
