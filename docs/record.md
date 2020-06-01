@@ -31,7 +31,7 @@ Your capture is now active. On macOS, you need to add a filter to remove the gre
 
 You can now place your character anywhere on screen by moving/scaling/rotating it in VTube Studio or in OBS.
 
-For the OBS and greenscreen setup, you can also take a look at this video (starts at 33:20):
+For the OBS and greenscreen setup, you can also take a look at this video __(relevant part starts at 33:20)__:
 
 <iframe width="360" height="252" src="//www.youtube.com/embed/q5dKr0ulx10?t=2000" frameborder="0" allowfullscreen="allowfullscreen">&nbsp;</iframe>
 
