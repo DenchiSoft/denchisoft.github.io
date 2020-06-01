@@ -21,7 +21,7 @@ Add a background in OBS, then add a capture for VTube Studio. To do that, select
 
 ![OBS Setup 3](../images/obs_screenshots/obs_3.png "OBS Setup 3")
 
-Choose application to capture ("Vtube Studio"). If you want to use a transparent background on windows, make sure the box for __"Allow Transparency"__ is checked.
+Choose application to capture ("Vtube Studio"). If you want to use a transparent background on Windows, make sure the box for __"Allow Transparency"__ is checked.
 
 ![OBS Setup 4](../images/obs_screenshots/obs_4.png "OBS Setup 4")
 
