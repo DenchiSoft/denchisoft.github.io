@@ -42,11 +42,11 @@ The app is **free** to try out, so just download it and see if it works on your 
 Download the app for your smartphone and PC/Mac. 
 
 
-<a href="https://www.apple.com/ios/app-store/"><img src="/images/platform_logos/download_iphone.png" align="left" width="170" ></a> <a href="https://play.google.com/store"><img src="/images/platform_logos/download_android.png" align="left" width="170" ></a>
+<a href="https://apps.apple.com/us/app/vtube-studio/id1511435444"><img src="/images/platform_logos/download_iphone.png" align="left" width="155" ></a> <a href=""><img src="/images/platform_logos/download_android_dev.png" align="left" width="155" ></a>
 
 <br /> <br /> <br />
 
-<a href="https://www.dropbox.com/s/t8me7mrgigjjuvo/VTube_Studio_macOS_1_0_1.zip?dl=1"><img src="/images/platform_logos/download_mac.png" align="left" width="170" ></a> <a href="https://www.dropbox.com/s/gwtdzqjyh9iyylq/VTube_Studio_Windows_1_0_1.zip?dl=1"><img src="/images/platform_logos/download_windows.png" align="left" width="170" ></a>
+<a href="https://denchi.itch.io/vtube-studio"><img src="/images/platform_logos/download_mac.png" align="left" width="155" ></a> <a href="https://denchi.itch.io/vtube-studio"><img src="/images/platform_logos/download_windows.png" align="left" width="155" ></a>
 
 <br /> <br /> <br />
 
