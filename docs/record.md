@@ -10,7 +10,7 @@ Start VTube Studio on your PC or Mac and choose the __Color Picker__ background.
 
 ![OBS Setup 1](../images/obs_screenshots/obs_2.png "OBS Setup 1")
 
-On macOS, __this feature is not supported by OBS__, so choose any color you want here. You can remove that color from the video capture in OBS using a __"Chroma Key"__ filter.
+__On macOS, this feature is not supported by OBS__, so choose any color you want here. You can remove that color from the video capture in OBS using a __"Chroma Key"__ filter.
 
 ![OBS Setup 2](../images/obs_screenshots/obs_1.png "OBS Setup 2")
 
