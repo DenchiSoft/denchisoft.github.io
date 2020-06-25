@@ -72,7 +72,7 @@ The Live2D models included in the app (with the exception of "Akari") belong to 
 The Akari model was drawn and modeled by Denchi. You may use this model freely, but not for commercial purposes unless you have explicit permission to do so.
 
 #### VTube Studio License
-You are not allowed to use the free version of VTube Studio for commercial purposes. As an individual, please buy a license if you plan to use the app commercially (monetized YouTube videos, superchats). If you are a beta-tester, you are allowed to use the beta-version for commercial purposes.
+You are not allowed to use the free version of VTube Studio for commercial purposes. As an individual, please buy a license ("PRO version") if you plan to use the app commercially (monetized YouTube videos, superchats). If you are a beta-tester, you are allowed to use the beta-version for commercial purposes.
 
 We offer different licensing terms for companies looking to utilize VTube Studio (ads, TV, etc.), so please contact us directly.
 
