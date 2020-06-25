@@ -2,11 +2,11 @@
 
 Thank you for your interest in **VTube Studio**! This page explains what **VTube Studio** is, how to use it and also covers some basic troubleshooting topics that you may find helpful.
 
-Should anything be unclear, feel free to reach out to me on [Twitter](https://twitter.com/VTubeStudio) or join our [Discord server](https://discord.gg/j6JUarA). This project is being developed by me (Denchi, [my private Twitter](https://twitter.com/DenchiSoft)) alone, so please forgive me if I may take a bit longer to respond sometimes, as this is a project that I work on in my free time outside of my regular work.
+Should anything be unclear, feel free to reach out to us on [Twitter](https://twitter.com/VTubeStudio) or join our [Discord server](https://discord.gg/j6JUarA). This project is being developed and maintained by Denchi (https://twitter.com/DenchiSoft).
 
 ![Live2D Expandable Application](/images/icons/live2d_expandable_app_small.png "Live2D Expandable Application")
 
-__Disclaimer:__ This app is an indie production and is not developed by _Live2D Inc._ or any other company, but is **officially licensed** to use the _Live2D Cubism SDK_. 
+__Disclaimer:__ This app is an indie production and is not developed by _Live2D Inc._, but is **officially licensed** to use the _Live2D Cubism SDK_. 
 
 <a href="https://discord.gg/j6JUarA"><img src="/images/icons/discord.png" align="left" width="91" ></a> <a href="https://twitter.com/VTubeStudio"><img src="/images/icons/twitter.png" align="left" width="91" ></a> <a href="mailto:vtubestudioapp@gmail.com"><img src="/images/icons/mail.png" align="left" width="91" ></a>
 <br />
@@ -70,7 +70,9 @@ The VTube Studio apps (macOS/Windows and iOS/Android) do not collect ANY user in
 #### Model Licenses
 The Live2D models included in the app belong to __Live2D Inc.__, so please respect the ["Agreement for Free Material"](https://docs.live2d.com/cubism-editor-manual/sample-model/?locale=en_us#License). 
 #### VTube Studio License
-You are not allowed to use the free version of VTube Studio for commercial purposes. Please buy a license if you plan to use the app commercially (monetized YouTube videos, superchats). If you are a beta-tester, you are allowed to use the beta-version for commercial purposes. 
+You are not allowed to use the free version of VTube Studio for commercial purposes. As an individual, please buy a license if you plan to use the app commercially (monetized YouTube videos, superchats). If you are a beta-tester, you are allowed to use the beta-version for commercial purposes.
+
+We offer different licensing terms for companies looking to utilize VTube Studio (ads, TV, etc.), so please contact us directly.
 
 ### Contact
 
