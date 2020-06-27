@@ -41,6 +41,7 @@ The app is **free** to try out, so just download it and see if it works on your 
 
 Download the app for your smartphone and PC/Mac. 
 
+<b>[Click here to see the changelog.](docs/changelog.md)</b>
 
 <a href="https://apps.apple.com/us/app/vtube-studio/id1511435444"><img src="/images/platform_logos/download_iphone.png" align="left" width="155" ></a> <a href="#"><img src="/images/platform_logos/download_android_dev.png" align="left" width="155" ></a>
 
@@ -68,7 +69,7 @@ The VTube Studio apps (macOS/Windows and iOS/Android) do not collect ANY user in
 
 ### Licensing
 #### Model Licenses
-The Live2D models included in the app (with the exception of "Akari") belong to __Live2D Inc.__, so please respect the ["Agreement for Free Material"](https://docs.live2d.com/cubism-editor-manual/sample-model/?locale=en_us#License). 
+The Live2D models included in the app (with the exception of "Akari") belong to __Live2D Inc.__, please respect the ["Agreement for Free Material"](https://docs.live2d.com/cubism-editor-manual/sample-model/?locale=en_us#License). 
 The Akari model was drawn and modeled by Denchi. You may use this model freely, but not for commercial purposes unless you have explicit permission to do so.
 
 #### VTube Studio License
