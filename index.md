@@ -77,6 +77,9 @@ You are not allowed to use the free version of VTube Studio for commercial purpo
 
 We offer different licensing terms for companies looking to utilize VTube Studio (ads, TV, etc.), so please contact us directly.
 
+#### Open Source Licenses
+VTube Studio uses various open-source projects. A complete list of used software and their respective licenses can be found [here](docs/open_source_licenses.md).
+
 ### Contact
 
 For business- or support-related inquiries, please contact [vtubestudioapp@gmail.com](mailto:vtubestudioapp@gmail.com)
