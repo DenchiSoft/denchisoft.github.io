@@ -3,7 +3,7 @@
 [\[Back to main page\]](https://denchisoft.github.io/)
 
 VTube Studio uses various commercial assets from the Unity Asset Store.
-In addition to that, VTube Studio also uses the following open projects, some of them open source:
+In addition to that, VTube Studio also uses the following projects, some of them open source:
 
  - [TouchScript](https://assetstore.unity.com/packages/tools/input-management/touchscript-7394) (MIT License)
    - A great library for multi-touch mobile input.
