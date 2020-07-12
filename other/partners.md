@@ -2,9 +2,11 @@
 
 [\[Back to main page\]](https://denchisoft.github.io/)
 
-VTube Studio 
+This is a list of official VTube Studio partners.
 
 ## MyHolo TV
+
+MyHolo TV is a Malaysian VTuber agency. Their goal is to connect Malaysia's community with Japan's Anime & VTuber culture.
 
 ![MyHolo TV](/images/partners/myholo_tv_logo.png "MyHolo TV")
 
@@ -19,4 +21,3 @@ VTube Studio
  - Hoshino Char ([@hoshinochar](https://twitter.com/hoshinochar))
  - Kamiko Kana ([@kamikokana](https://twitter.com/kamikokana))
  - Inukai Purin ([@inukaipurin](https://twitter.com/inukaipurin))
- 
