@@ -6,7 +6,7 @@ This is a list of official VTube Studio partners.
 
 ## MyHolo TV ([@myholotv](https://twitter.com/myholotv))
 
-MyHolo TV is a Malaysian VTuber agency. Their goal is to connect Malaysia's community with Japan's Anime & VTuber culture.
+MyHolo TV is a Malaysia VTuber agency. Their goal is to connect Malaysia's community with Japan's Anime & VTuber culture.
 
 ![MyHolo TV](/images/partners/myholo_tv_logo.png "MyHolo TV")
 
