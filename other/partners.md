@@ -10,7 +10,7 @@ MyHolo TV is a Malaysian VTuber agency. Their goal is to connect Malaysia's comm
 
 ![MyHolo TV](/images/partners/myholo_tv_logo.png "MyHolo TV")
 
-### VTubers
+### VTube Studio Ambassador
  - Liliana Vampaia ([@lilianavampaia](https://twitter.com/lilianavampaia))
 
 ## Tsunderia Studios ([@tsunderia_us](https://twitter.com/tsunderia_us))
