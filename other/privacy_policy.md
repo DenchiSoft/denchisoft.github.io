@@ -7,7 +7,7 @@
 The VTube Studio apps (macOS/Windows and iOS/Android) do not collect ANY user information.
 No user data, models, images, videos or face-tracking data created/streamed in the app are shared anywhere.
 
-## Details: Data Collection and Storage
+## Details: Data Collection and Storage (VTube Studio)
 
 For more details, please refer to [Apple's Data Collection and Storage Guidelines](https://developer.apple.com/app-store/review/guidelines/#data-collection-and-storage).
 
