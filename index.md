@@ -43,7 +43,7 @@ Download the app for your smartphone and PC/Mac.
 
 <b>[Click here to see the changelog.](docs/changelog.md)</b>
 
-<a href="https://apps.apple.com/us/app/vtube-studio/id1511435444"><img src="/images/platform_logos/download_iphone.png" align="left" width="155" ></a> <a href="#"><img src="/images/platform_logos/download_android_dev.png" align="left" width="155" ></a>
+<a href="https://apps.apple.com/us/app/vtube-studio/id1511435444"><img src="/images/platform_logos/download_iphone.png" align="left" width="155" ></a> <a href="https://play.google.com/store/apps/details?id=com.denchi.vtubestudio"><img src="/images/platform_logos/download_android.png" align="left" width="155" ></a>
 
 <br /> <br /> <br />
 
