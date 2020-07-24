@@ -33,7 +33,7 @@ You need a smartphone (iPhone or Android) and a PC (if you want to stream on PC)
 - **iOS:** iPhone X or newer (__must support Face ID__)
   - iPhone X, iPhone XR, iPhone XS (regular and Max), iPhone 11 (regular, Pro and Pro Max),
   - iPad Pro (3rd, 4th+ generation)
-- **Android (in development):** Any Android device that supports ARCore (see [this list of supported devices](https://developers.google.com/ar/discover/supported-devices)).
+- **Android:** Any Android device that supports ARCore (see [this list of supported devices](https://developers.google.com/ar/discover/supported-devices)).
 
 The app is **free** to try out, so just download it and see if it works on your phone! If you like it, you can buy the PRO version to remove the watermark from the app and enable unlimited face streaming!
 
@@ -66,6 +66,8 @@ Feel free to play around a bit by yourself! When you're ready to get serious, he
 ### Privacy Policy
 
 The VTube Studio apps (macOS/Windows and iOS/Android) do not collect ANY user information. No user data, models, images, videos or face-tracking data created/streamed in the app are shared anywhere.
+
+For more information, see our [Data Retention and Privacy Policy](other/privacy_policy.md)
 
 ### Licensing
 #### Model Licenses
