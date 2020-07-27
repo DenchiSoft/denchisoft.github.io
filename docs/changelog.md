@@ -2,6 +2,25 @@
 
 [\[Back to main page\]](https://denchisoft.github.io/)
 
+## Version 1.2.2
+
+_Released July 27th 2020_
+
+#### New features
+ - Trigger hotkeys. Background hotkeys (window not in focus) supported only on windows. You can also set hotkey combinations.
+ - Screen button hotkeys: Use smartphone as a remote to activate hotkeys in the Windows/Mac app.
+ - Settings are now saved between app restarts.
+ - Option to "save scene setup": last background and model are saved/loaded when restarting the app.
+ - Virtual webcam to stream directly into other apps (Windows only)
+ - Automatically scan for and find server from within app.
+ - Windows/Mac app now shows list of all IPs instead of just the first one.
+ - Live2D rendering performance improvements. 
+
+#### Bugfixes
+ - Fixed smaller networking issues.
+ - Fixed audio quality issues when recording on Android.
+ - Fixed screen rotation bug.
+
 ## Version 1.0.2
 _Released June 27th 2020_
 
