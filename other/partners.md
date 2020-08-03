@@ -21,3 +21,11 @@ MyHolo TV is a Malaysia VTuber agency. Their goal is to connect Malaysia's commu
  - Hoshino Char ([@hoshinochar](https://twitter.com/hoshinochar))
  - Kamiko Kana ([@kamikokana](https://twitter.com/kamikokana))
  - Inukai Purin ([@inukaipurin](https://twitter.com/inukaipurin))
+ 
+ ## Asagiri Yua ([@asagiriyua](https://twitter.com/asagiriyua))
+ 
+ Asagiri Yua is an independent VTuber who primarily focuses on streaming on Twitch. She also does freelance Live2D and animation work.
+ 
+[![Asagiri Yua](/images/partners/asagiri_yua_icon_small.png "Asagiri Yua")](https://twitter.com/asagiriyua)
+
+
