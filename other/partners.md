@@ -26,6 +26,6 @@ MyHolo TV is a Malaysia VTuber agency. Their goal is to connect Malaysia's commu
  
  Asagiri Yua is an independent VTuber who primarily focuses on streaming on Twitch. She also does freelance Live2D and animation work.
  
-![Asagiri Yua](/images/partners/asagiri_yua_icon_small.png "Asagiri Yua")
+[![Asagiri Yua](/images/partners/asagiri_yua_icon_small.png "Asagiri Yua")](https://twitter.com/asagiriyua)
 
 
