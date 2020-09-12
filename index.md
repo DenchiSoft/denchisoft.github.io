@@ -73,6 +73,8 @@ For more information, see our [Data Retention and Privacy Policy](other/privacy_
 #### Model Licenses
 The Live2D models included in the app (with the exception of "Akari") belong to __Live2D Inc.__, please respect the ["Agreement for Free Material"](https://docs.live2d.com/cubism-editor-manual/sample-model/?locale=en_us#License). 
 The Akari model was drawn and modeled by Denchi. You may use this model freely, but not for commercial purposes unless you have explicit permission to do so.
+
+#### VTube Studio Branding
 If you would like to use the VTube Studio logo and other branding in your videos, please do not modify them. You can get them on the [branding-page](docs/branding.md).
 
 #### VTube Studio License
