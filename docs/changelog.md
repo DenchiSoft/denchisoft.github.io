@@ -7,10 +7,30 @@
 _Released August 29th 2020_
 
 #### New features
- - 
-
-#### Bugfixes
- - 
+ - Added mouse tracking as input parameter.
+ - Added mouse click (left/right/mid) as hotkey, on MacOS only within window.
+ - Streaming Mode: Automatically choose optimal settings to ensure phone won’t get too hot while streaming to PC.
+ - Added FPS options: 60 FPS, 30 FPS and VSync (match screen refresh rate).
+ - Smooth resize/rotate for Live2D model on Windows and MacOS.
+ - More face tracking parameters on iOS: FaceAngry, CheekPuff, BrowLeftY, BrowRightY
+ - Model physics: Boost settings.
+ - Model physics: Wind settings.
+ - Pressing back button on Android will now close config if it’s open. Otherwise app is closed.
+ 
+#### Improvements & Bugfixes
+ - Fixed face rotation glitch and calibration drift.
+ - Set CubismGlobalMaskTexture to 4096/2084 depending on platform for better mask quality.
+ - Fixed accidental clicks (breath/blink button, etc.) when scrolling through UI.
+ - Removed black overlay in config on Win/Mac so model isn’t transparent in OBS anymore.
+ - Removed bear.
+ - Updated ARCore/ARKit SDK to latest version.
+ - Replaced Live2D animation system with own implementation.
+ - Fixed looping for idle animations including Live2D “repeat parameters”.
+ - Removing model selection bar when closing UI.
+ - Improved texture quality on Windows and MacOS.
+ - Fixed auto-breath and auto-blink when no input/output parameter is selected.
+ - Fixed bug where Auto-Blink wouldn’t work sometimes.
+ - Slightly improved blink detection on iPhone.
 
 ## Version 1.2.2
 
