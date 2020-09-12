@@ -2,6 +2,17 @@
 
 [\[Back to main page\]](https://denchisoft.github.io/)
 
+## Version 1.4.0
+
+_Released September ?? 2020_
+
+#### New features
+ - Hotkeys can now set model position.
+ - Models can now be moved when config is open.
+
+#### Improvements & Bugfixes
+ - Fixed bug in expressions: Expression values are now additive.
+
 ## Version 1.3.2
 
 _Released August 29th 2020_
