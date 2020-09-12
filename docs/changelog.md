@@ -2,6 +2,16 @@
 
 [\[Back to main page\]](https://denchisoft.github.io/)
 
+## Version 1.3.2
+
+_Released August 29th 2020_
+
+#### New features
+ - 
+
+#### Bugfixes
+ - 
+
 ## Version 1.2.2
 
 _Released July 27th 2020_
