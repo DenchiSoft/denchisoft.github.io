@@ -4,14 +4,18 @@
 
 ## Version 1.4.0
 
-_Released September ?? 2020_
+_Released September 23 2020_
 
 #### New features
  - Hotkeys can now set model position.
  - Models can now be moved when config is open.
+ - Search bar for parameter lists.
 
 #### Improvements & Bugfixes
- - Fixed bug in expressions: Expression values are now additive.
+ - Fixed bug in expressions: Expression values are now additive. Multiply mode not yet supported.
+ - Fixed bug where missing Live2D parameters prevented successful model loading.
+ - Increased scrolling speed (mouse wheel).
+ - Added scrollbar for model config tab.
 
 ## Version 1.3.2
 
