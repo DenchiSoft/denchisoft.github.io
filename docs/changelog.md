@@ -10,6 +10,7 @@ _Released September 23 2020_
  - Hotkeys can now set model position.
  - Models can now be moved when config is open.
  - Search bar for parameter lists.
+ - Full support for iOS 14.
 
 #### Improvements & Bugfixes
  - Fixed bug in expressions: Expression values are now additive. Multiply mode not yet supported.
