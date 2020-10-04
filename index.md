@@ -82,6 +82,10 @@ Details are also available in our [end-user license agreement (EULA)](https://ra
 #### Open Source Licenses
 VTube Studio uses various open-source projects. A complete list of used software and their respective licenses can be found [here](docs/open_source_licenses.md).
 
+### Special Thanks
+
+Under construction.
+
 ### Contact
 
 For business- or support-related inquiries, please contact [vtubestudioapp@gmail.com](mailto:vtubestudioapp@gmail.com)
