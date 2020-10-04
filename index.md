@@ -84,7 +84,9 @@ VTube Studio uses various open-source projects. A complete list of used software
 
 ### Special Thanks
 
-Under construction.
+A huge <b>Thank You</b> to the people helping me with some of the feature planning: [Brian Tsui](https://twitter.com/BrianTsuii) and Soy from [Iron Vertex](https://twitter.com/iron_vertex), a Live2D Guild that does absolutely amazing Live2D commission work. I regularly work closely with them and if you want a professional, highest-quality Live2D model, I'll unequivocally recommend them anytime.
+
+And also <b>Thank You</b> to the people always helping out with supporting new users in my Discord server, in particular Anthem and [Hinoguchi Sorako](https://twitter.com/HinoSoraCh), but also many others.
 
 ### Contact
 
