@@ -51,17 +51,11 @@ Download the app for your smartphone and PC/Mac.
 
 <br /> <br /> <br />
 
-Feel free to play around a bit by yourself! When you're ready to get serious, here are some FAQ topics to get you started:
+Feel free to play around a bit by yourself! When you're ready to get serious, check out the documentation:
 
-1. [The VTube Studio Interface](docs/interface.md)
-2. [Which face tracking parameters can I use and what are the differences between iOS and Android?](docs/platform_differences.md)
-3. [How to load your own Live2D Models](docs/models.md)
-4. [How to load your own backgrounds](docs/backgrounds.md)
-5. [How to stream to PC/Mac](docs/stream.md)
-6. [How to use OBS to record or livestream using VTube Studio](docs/record.md)
-7. [Why does my stream to PC/Mac lag?](docs/stream_issues.md)
-8. [How to fix slow/laggy Android face-tracking?](docs/android_issues.md)
-9. [How does the VTube Studio JSON file format work?](docs/vts_json.md)
+<b>[VTube Studio Official Documentation](https://raw.githubusercontent.com/DenchiSoft/denchisoft.github.io/master/docs/VTube_Studio_Documentation.pdf)</b>
+
+Direct link to documentation: https://raw.githubusercontent.com/DenchiSoft/denchisoft.github.io/master/docs/VTube_Studio_Documentation.pdf
 
 ### Privacy Policy
 
@@ -78,9 +72,12 @@ The Akari model was drawn and modeled by Denchi. You may use this model freely, 
 If you would like to use the VTube Studio logo and other branding in your videos, please do not modify them. You can get them on the [branding-page](docs/branding.md).
 
 #### VTube Studio License
-You are not allowed to use the free version of VTube Studio for commercial purposes. As an individual, please buy a license ("PRO version") if you plan to use the app commercially (monetized YouTube videos, superchats). If you are a beta-tester, you are allowed to use the beta-version for commercial purposes.
+You are not allowed to use the free version of VTube Studio for commercial purposes. As an individual or small Company/VTuber Agency, please buy a license ("PRO version" per in-app purchase on Android/iOS) if you plan to use the app commercially (monetized YouTube videos, superchats). 
 
+If you are a bigger company looking to utilize VTube Studio (ads, TV, etc.), please contact us directly.
 We offer different licensing terms for companies looking to utilize VTube Studio (ads, TV, etc.), so please contact us directly.
+
+Details are also available in our [end-user license agreement (EULA)](https://raw.githubusercontent.com/DenchiSoft/denchisoft.github.io/master/docs/VTube_Studio_Documentation.pdf).
 
 #### Open Source Licenses
 VTube Studio uses various open-source projects. A complete list of used software and their respective licenses can be found [here](docs/open_source_licenses.md).
