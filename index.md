@@ -39,7 +39,7 @@ The app is **free** to try out, so just download it and see if it works on your 
 
 ### Where do I download it?
 
-Download the app for your smartphone and PC/Mac. 
+Download the app for your smartphone and PC/Mac. When there's an update, always remember to download the newest version for both PC/Mac and your smartphone.
 
 <b>[Click here to see the changelog.](docs/changelog.md)</b>
 
