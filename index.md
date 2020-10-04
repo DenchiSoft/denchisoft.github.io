@@ -37,7 +37,7 @@ You need a smartphone (iPhone or Android) and a PC (if you want to stream on PC)
 
 The app is **free** to try out, so just download it and see if it works on your phone! If you like it, you can buy the PRO version to remove the watermark from the app and enable unlimited face streaming!
 
-### How do I get started?
+### Where do I download it?
 
 Download the app for your smartphone and PC/Mac. 
 
@@ -50,6 +50,8 @@ Download the app for your smartphone and PC/Mac.
 <a href="https://denchi.itch.io/vtube-studio"><img src="/images/platform_logos/download_mac.png" align="left" width="155" ></a> <a href="https://denchi.itch.io/vtube-studio"><img src="/images/platform_logos/download_windows.png" align="left" width="155" ></a>
 
 <br /> <br /> <br />
+
+### Where is the documentation?
 
 Feel free to play around a bit by yourself! When you're ready to get serious, check out the documentation:
 
