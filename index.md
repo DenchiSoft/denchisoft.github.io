@@ -77,7 +77,7 @@ You are not allowed to use the free version of VTube Studio for commercial purpo
 If you are a bigger company looking to utilize VTube Studio (ads, TV, etc.), please contact us directly.
 We offer different licensing terms for companies looking to utilize VTube Studio (ads, TV, etc.), so please contact us directly.
 
-Details are also available in our [end-user license agreement (EULA)](https://raw.githubusercontent.com/DenchiSoft/denchisoft.github.io/master/docs/VTube_Studio_Documentation.pdf).
+Details are also available in our [end-user license agreement (EULA)](https://raw.githubusercontent.com/DenchiSoft/denchisoft.github.io/master/docs/denchisoft_eula_vts_long.pdf).
 
 #### Open Source Licenses
 VTube Studio uses various open-source projects. A complete list of used software and their respective licenses can be found [here](docs/open_source_licenses.md).
