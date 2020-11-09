@@ -17,3 +17,7 @@ In addition to that, VTube Studio also uses the following projects, some of them
    - Wrapper over Windows Raw Input API that allows you to read keypresses even if Unity is in the background.
  - [UnityCapture](https://github.com/schellingb/UnityCapture) (MIT License)
    - Library that can create virtual webcams and easily stream your Unity cameras over them. Original project was [UnityCam](https://github.com/mrayy/UnityCam).
+ - [KlakNDI](https://github.com/keijiro/KlakNDI) (MIT License)
+   - Library to send/receive NDI streams from within Unity by [Keijiro Takahashi](https://twitter.com/_kzr).
+ - [Stream Deck Integration](https://assetstore.unity.com/packages/tools/input-management/stream-deck-integration-179109) (Unity Store License)
+   - Plugin that lets you directly interact with Unity using your Elgato Stream Deck.
