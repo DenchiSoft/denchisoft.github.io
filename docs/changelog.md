@@ -2,6 +2,21 @@
 
 [\[Back to main page\]](https://denchisoft.github.io/)
 
+## Version 1.4.1
+
+_Released November 17 2020_
+
+#### New features
+ - Selection list for backgrounds.
+ - Support for [Newtek NDI](https://en.wikipedia.org/wiki/Network_Device_Interface) (transparent streaming to OBS without showing VTube Studio UI)
+ - Update-reminder popup when new version is available on itch.io
+
+#### Improvements & Bugfixes
+ - Updated all AR related libraries to newest version.
+ - Fixed bugs in tracking setup that resulted in tracking glitches/lag/jumps.
+ - Slightly improved tracking performance/stability and various crashes.
+ - Fixed model texture import so models on Windows/MacOS can now be resized without looking pixelated.
+
 ## Version 1.4.0
 
 _Released September 23 2020_
