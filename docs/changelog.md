@@ -2,6 +2,18 @@
 
 [\[Back to main page\]](https://denchisoft.github.io/)
 
+## Version 1.5.0
+
+_Released December 22 2020_
+
+#### New features
+ - Item System: Import your own PNG props/items into the scene and attach them to your Live2D model.
+ - In-app screenshots: You can now take screenshots directly from within the app. You can also take screenshots with transparent background so only your model and any items in the scene will be visible.
+
+#### Improvements & Bugfixes
+ - Updated all AR related libraries to newest version.
+ - Various small UI bugfixes.
+
 ## Version 1.4.1
 
 _Released November 17 2020_
