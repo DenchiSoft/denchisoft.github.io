@@ -12,6 +12,7 @@ _Released December 22 2020_
 
 #### Improvements & Bugfixes
  - Updated all AR related libraries to newest version.
+ - Scrollbar on PC/Mac for hotkey config.
  - Various small UI bugfixes.
 
 ## Version 1.4.1
