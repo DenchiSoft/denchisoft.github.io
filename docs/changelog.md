@@ -2,6 +2,16 @@
 
 [\[Back to main page\]](https://denchisoft.github.io/)
 
+## Version 1.5.1
+
+_Released December 25 2020_
+
+#### New features
+ - None
+
+#### Improvements & Bugfixes
+ - Fixed bug that caused memory buildup and crashes on some devices.
+ 
 ## Version 1.5.0
 
 _Released December 22 2020_
