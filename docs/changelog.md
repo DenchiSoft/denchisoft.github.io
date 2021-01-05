@@ -19,6 +19,7 @@ _Released January 5th 2021_
  - Fixed bug causing crashes on mobile when using items in scene.
  - Improved blink-tracking on iOS.
  - Removed mipmapping on mobile. This decreases memory consumption on mobile which will allow users to load models with bigger texture maps without the app crashing, but model textures will also not look as good when scaling the model down. In the future, this will be added back as an optional import setting.
+ - Changed hotkey system setup: stopped using keyboard hooks, instead using different API that manually polls keypresses. This removes any latency the previous method was causing.
  
 ## Version 1.5.1
 
