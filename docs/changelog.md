@@ -2,10 +2,6 @@
 
 [\[Back to main page\]](https://denchisoft.github.io/)
 
-# Changelog
-
-[\[Back to main page\]](https://denchisoft.github.io/)
-
 ## Version 1.5.2
 
 _Released January 5th 2021_
