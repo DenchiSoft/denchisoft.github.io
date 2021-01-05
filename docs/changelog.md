@@ -2,9 +2,27 @@
 
 [\[Back to main page\]](https://denchisoft.github.io/)
 
+# Changelog
+
+[\[Back to main page\]](https://denchisoft.github.io/)
+
+## Version 1.5.2
+
+_Released January 5th 2021_
+
+#### New features
+ - Animated items, imported as PNG sequences.
+
+#### Improvements & Bugfixes
+ - Fixed model Z movement (model getting bigger/smaller when moving to/away from the camera).
+ - Fixed "Go back to default" behaviour when tracking is lost.
+ - Fixed bug causing crashes on mobile when using items in scene.
+ - Improved blink-tracking on iOS.
+ - Removed mipmapping on mobile. This decreases memory consumption on mobile which will allow users to load models with bigger texture maps without the app crashing, but model textures will also not look as good when scaling the model down. In the future, this will be added back as an optional import setting.
+ 
 ## Version 1.5.1
 
-_Released December 25 2020_
+_Released December 25th 2020_
 
 #### New features
  - None
@@ -14,7 +32,7 @@ _Released December 25 2020_
  
 ## Version 1.5.0
 
-_Released December 22 2020_
+_Released December 22nd 2020_
 
 #### New features
  - Item System: Import your own PNG props/items into the scene and attach them to your Live2D model.
@@ -27,7 +45,7 @@ _Released December 22 2020_
 
 ## Version 1.4.1
 
-_Released November 17 2020_
+_Released November 17th 2020_
 
 #### New features
  - Selection list for backgrounds.
@@ -42,7 +60,7 @@ _Released November 17 2020_
 
 ## Version 1.4.0
 
-_Released September 23 2020_
+_Released September 23rd 2020_
 
 #### New features
  - Hotkeys can now set model position.
