@@ -86,9 +86,9 @@ VTube Studio uses various open-source projects. A complete list of used software
 
 ### Special Thanks
 
-A huge <b>Thank You</b> to the people helping me with some of the feature planning: <b>[Brian Tsui](https://twitter.com/BrianTsuii)</b> and <b>Soy</b> from [Iron Vertex](https://twitter.com/iron_vertex), a Live2D Guild that does absolutely amazing Live2D commission work. I regularly work closely with them and if you want a professional, highest-quality Live2D model, I'll unequivocally recommend them anytime.
+A huge <b>Thank You</b> to the people helping me with some of the feature planning: <b>[Brian Tsui](https://twitter.com/BrianTsuii)</b> and <b>[Soy](https://twitter.com/sei_soy)</b> from [Iron Vertex](https://twitter.com/iron_vertex), a Live2D Guild that does absolutely amazing Live2D commission work. I regularly work closely with them and if you want a professional, highest-quality Live2D model, I'll unequivocally recommend them anytime.
 
-And also <b>Thank You</b> to the people always helping out with supporting new users in my Discord server, in particular <b>Anthem</b>, <b>Hinoguchi Sorako</b>, <b>ARS Yoshino</b>, but also many others.
+And also <b>Thank You</b> to the people always helping out with supporting new users in my Discord server, in particular <b>Anthem</b>, <b>Hinoguchi Sorako</b>, <b>ARS Yoshino</b>, <b>Luki</b>, but also many others.
 
 ### Contact
 
