@@ -5,5 +5,7 @@
 ## Impressum
 
 Vincent Diener (Kleinunternehmen)
+
 Luise-Riegger-Str. 54, Karlsruhe
-denchisoft@gmail.com
+
+denchisoft <at> gmail <dot> com
