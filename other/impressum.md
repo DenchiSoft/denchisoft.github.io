@@ -4,7 +4,7 @@
 
 ## Impressum
 
-Vincent Diener (Kleinunternehmen)
+Vincent Diener (Einzelunternehmen)
 
 Luise-Riegger-Str. 54, Karlsruhe
 
