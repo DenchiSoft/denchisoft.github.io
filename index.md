@@ -32,9 +32,10 @@ From there, you can use OBS or any other streaming software to create videos and
 
 You need a smartphone (iPhone or Android) and a PC (if you want to stream on PC). Supported smartphones:
 
-- **iOS:** iPhone X or newer (__must support Face ID__)
+- **iOS:** iPhone X or newer (__must support Face ID__ or have the __Apple A12 chip (or newer)__)
   - iPhone X, iPhone XR, iPhone XS (regular and Max), iPhone 11 (regular, Pro and Pro Max),
   - iPad Pro (3rd, 4th+ generation)
+  - iPhone SE 2020, iPad Mini 5, iPad Air 3, ... (no FaceID but A12+ chip, tracking quality similar to FaceID)
 - **Android:** Any Android device that supports ARCore (see [this list of supported devices](https://developers.google.com/ar/discover/supported-devices)).
 
 The app is **free** to try out, so just download it and see if it works on your phone! If you like it, you can buy the PRO version to remove the watermark from the app and enable unlimited face streaming!
