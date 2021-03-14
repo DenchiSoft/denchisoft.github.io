@@ -2,10 +2,4 @@
 
 [\[Back to main page\]](https://denchisoft.github.io/)
 
-## Impressum
-
-Vincent Diener (Einzelunternehmen)
-
-Luise-Riegger-Str. 54, Karlsruhe
-
-denchisoft@gmail.com
+The VTube Studio website has moved to [https://denchisoft.com](https://denchisoft.com)
